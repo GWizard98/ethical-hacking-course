@@ -123,6 +123,8 @@ Notes
     ```sh path=null start=null
     pipx run mkdocs serve
     ```
+  - Quizzes (local grading)
+    - Serve: `pipx run mkdocs serve`, then open a page under docs/quizzes/
   - Build locally
     ```sh path=null start=null
     pipx run mkdocs build --strict
@@ -136,3 +138,10 @@ Notes
   vagrant snapshot save clean
   vagrant destroy -f
   ```
+
+- Dev Container (VS Code)
+  - Open this folder in a Dev Container to get mkdocs, markdownlint, alex, and Vale preinstalled.
+  - Serve docs inside container:
+    ```sh path=null start=null
+    mkdocs serve
+    ```

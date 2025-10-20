@@ -70,3 +70,5 @@ See `docs/outline.md` for a detailed outline.
 - Assessments: docs/assessments/quiz-bank.md
 - Instructor keys: docs/instructor/keys.md
 - Feedback: docs/feedback.md (open an Issue)
+- Quizzes: docs/quizzes/networking.md
+- Dev Container: .devcontainer/ (open in VS Code Dev Containers)

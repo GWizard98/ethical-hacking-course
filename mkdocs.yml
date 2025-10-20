@@ -4,10 +4,19 @@ repo_url: https://github.com/GWizard98/ethical-hacking-course
 repo_name: ethical-hacking-course
 docs_dir: .
 use_directory_urls: true
+# Privacy-friendly analytics (optional): add Plausible if desired
+# extra:
+#   analytics:
+#     provider: plausible
+#     domain: gwizard98.github.io
+#     src: https://plausible.io/js/plausible.js
+
 theme:
   name: material
 plugins:
   - search
+extra_javascript:
+  - docs/assets/js/quiz.js
 nav:
   - Start here: docs/start-here.md
   - Progress Tracker: docs/progress/progress-template.md
@@ -38,7 +47,12 @@ nav:
       - 18 — Advanced Threat Modeling: modules/18-advanced-threat-modeling/README.md
       - 19 — Adversary Simulation Basics: modules/19-adversary-simulation-basics/README.md
       - 20 — Detection Engineering: modules/20-detection-engineering/README.md
+      - 21 — Free Practice: Web Ops: modules/21-free-practice-web/README.md
+      - 22 — Free Practice: Network Ops: modules/22-free-practice-network/README.md
+      - 23 — Free Practice: Blue-Team: modules/23-free-practice-blue-team/README.md
   - Lab VM: docs/lab-vm.md
   - Assessments: docs/assessments/quiz-bank.md
   - Instructor: docs/instructor/keys.md
   - Feedback: docs/feedback.md
+  - Quizzes:
+      - Networking: docs/quizzes/networking.md
