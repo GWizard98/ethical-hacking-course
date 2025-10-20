@@ -1,0 +1,18 @@
+title: Sample SSH brute-force detection (syslog)
+id: sample-ssh-bruteforce
+status: experimental
+description: Detects multiple failed SSH logins from the same source in short time.
+logsource:
+  product: linux
+  service: syslog
+detection:
+  selection:
+    message|contains: 'Failed password for'
+  timeframe: 5m
+  condition: selection | count(src_ip) by src_ip > 5
+fields:
+  - src_ip
+  - user
+falsepositives:
+  - Misconfigured systems
+level: medium

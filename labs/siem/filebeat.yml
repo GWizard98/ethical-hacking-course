@@ -1,0 +1,15 @@
+filebeat.inputs:
+  - type: filestream
+    id: sample-syslog
+    paths: ["/datasets/sample-syslog.log"]
+    parsers:
+      - syslog:
+          format: auto
+
+output.opensearch:
+  hosts: ["http://opensearch:9200"]
+  username: "admin"
+  password: "opensearch"
+  index: "logs-sample"
+setup.template.enabled: false
+setup.ilm.enabled: false

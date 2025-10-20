@@ -15,8 +15,18 @@ theme:
   name: material
 plugins:
   - search
+  - i18n:
+      default_language: en
+      languages:
+        en: English
+        es: Español
 extra_javascript:
   - docs/assets/js/quiz.js
+extra:
+  analytics:
+    provider: plausible
+    domain: gwizard98.github.io
+    src: https://plausible.io/js/plausible.js
 nav:
   - Start here: docs/start-here.md
   - Progress Tracker: docs/progress/progress-template.md
@@ -25,6 +35,9 @@ nav:
   - Lab Setup: docs/lab-setup.md
   - Guided Lab: docs/labs/juice-shop-walkthrough.md
   - NICE Mapping: docs/frameworks/nice-mapping.md
+  - ATT&CK Matrix: docs/frameworks/attack-matrix.md
+  - Detections: docs/detections/sigma-example.yml
+  - SIEM Lab: docs/labs/siem.md
   - Modules:
       - 00 — Introduction: modules/00-introduction/README.md
       - 01 — Operating Systems: modules/01-operating-systems/README.md

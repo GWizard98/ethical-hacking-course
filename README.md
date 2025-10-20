@@ -66,9 +66,12 @@ See `docs/outline.md` for a detailed outline.
 - Start here: docs/start-here.md
 - Progress tracker: docs/progress/progress-template.md
 - Guided Lab: docs/labs/juice-shop-walkthrough.md
+- SIEM Lab: docs/labs/siem.md
 - Lab VM (Vagrant): docs/lab-vm.md
 - Assessments: docs/assessments/quiz-bank.md
 - Instructor keys: docs/instructor/keys.md
+- Capstone exemplars: docs/capstone-exemplars/strong.md, docs/capstone-exemplars/average.md
+- ATT&CK Matrix: docs/frameworks/attack-matrix.md
 - Feedback: docs/feedback.md (open an Issue)
 - Quizzes: docs/quizzes/networking.md
 - Dev Container: .devcontainer/ (open in VS Code Dev Containers)
