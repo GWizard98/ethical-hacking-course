@@ -28,3 +28,15 @@ nav:
       - 10 — CTF & Labs: modules/10-ctf-and-labs/README.md
       - 11 — Defensive Basics: modules/11-defensive-security-basics/README.md
       - 12 — Career & Learning: modules/12-career-continued-learning/README.md
+      - 13 — Capstone: modules/13-capstone/README.md
+      - 14 — Windows Fundamentals: modules/14-windows-fundamentals/README.md
+      - 15 — Web Testing Methodology: modules/15-web-app-testing-methodology/README.md
+      - 16 — Secure Coding & Review: modules/16-secure-coding-and-code-review/README.md
+      - 17 — Cloud Security Fundamentals: modules/17-cloud-security-fundamentals/README.md
+      - 18 — Advanced Threat Modeling: modules/18-advanced-threat-modeling/README.md
+      - 19 — Adversary Simulation Basics: modules/19-adversary-simulation-basics/README.md
+      - 20 — Detection Engineering: modules/20-detection-engineering/README.md
+  - Lab VM: docs/lab-vm.md
+  - Assessments: docs/assessments/quiz-bank.md
+  - Instructor: docs/instructor/keys.md
+  - Feedback: docs/feedback.md

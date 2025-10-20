@@ -116,3 +116,11 @@ Notes
     pipx run mkdocs build --strict
     ```
   - CI deploys to GitHub Pages on push to main.
+
+- Lab VM (Vagrant)
+  ```sh path=null start=null
+  vagrant up
+  vagrant ssh
+  vagrant snapshot save clean
+  vagrant destroy -f
+  ```

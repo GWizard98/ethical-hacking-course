@@ -64,3 +64,7 @@ See `docs/outline.md` for a detailed outline.
 ## Documentation site
 - Built from this repo via MkDocs. View: https://gwizard98.github.io/ethical-hacking-course/
 - Guided Lab: docs/labs/juice-shop-walkthrough.md
+- Lab VM (Vagrant): docs/lab-vm.md
+- Assessments: docs/assessments/quiz-bank.md
+- Instructor keys: docs/instructor/keys.md
+- Feedback: docs/feedback.md (open an Issue)
