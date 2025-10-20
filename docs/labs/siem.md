@@ -15,6 +15,7 @@ Ingest
 
 Detection (conceptual)
 - Review docs/detections/sigma-example.yml and translate logic into a Dashboards saved search or alert (manual).
+- Import saved search: Dashboards → Stack Management → Saved Objects → Import `docs/detections/opensearch-saved-objects.ndjson`.
 
 Teardown
 ```sh path=null start=null

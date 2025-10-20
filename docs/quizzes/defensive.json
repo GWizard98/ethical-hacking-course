@@ -1,0 +1,9 @@
+{
+  "id": "defensive",
+  "title": "Defensive Basics Quiz",
+  "questions": [
+    {"prompt":"An IOC is:","options":["Incident of Concern","Indicator of Compromise"],"answer":[1]},
+    {"prompt":"First step in incident response:","options":["Contain","Identify"],"answer":[1]},
+    {"prompt":"Why timestamps/timezones matter:","options":["Correlate events","Decorate reports"],"answer":[0]}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "detection-eng",
+  "title": "Detection Engineering Quiz",
+  "questions": [
+    {"prompt":"A detection rule is:","options":["A UI dashboard","Logic to match events"],"answer":[1]},
+    {"prompt":"Why test with benign and edge cases?","options":["Tune false positives","Slow down"],"answer":[0]},
+    {"prompt":"One metric to tune FPs:","options":["Precision","Hue"],"answer":[0]}
+  ]
+}

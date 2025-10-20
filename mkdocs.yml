@@ -37,6 +37,7 @@ nav:
   - NICE Mapping: docs/frameworks/nice-mapping.md
   - ATT&CK Matrix: docs/frameworks/attack-matrix.md
   - Detections: docs/detections/sigma-example.yml
+  - Saved Searches (OpenSearch): docs/detections/opensearch-saved-objects.ndjson
   - SIEM Lab: docs/labs/siem.md
   - Modules:
       - 00 — Introduction: modules/00-introduction/README.md
@@ -68,6 +69,7 @@ nav:
   - Assessments: docs/assessments/quiz-bank.md
   - Instructor: docs/instructor/keys.md
   - Feedback: docs/feedback.md
+  - Accessibility Report: docs/accessibility-report.md
   - Quizzes:
       - OS/Linux: docs/quizzes/os-linux.md
       - Networking: docs/quizzes/networking.md
@@ -75,3 +77,6 @@ nav:
       - Scripting: docs/quizzes/scripting.md
       - Threat Modeling: docs/quizzes/threat-modeling.md
       - Vulnerability Assessment: docs/quizzes/vuln-assessment.md
+      - Legal & Ethics: docs/quizzes/legal-ethics.md
+      - Defensive Basics: docs/quizzes/defensive.md
+      - Detection Engineering: docs/quizzes/detection-eng.md

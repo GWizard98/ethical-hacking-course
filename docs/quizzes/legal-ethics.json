@@ -1,0 +1,9 @@
+{
+  "id": "legal-ethics",
+  "title": "Legal & Ethics Quiz",
+  "questions": [
+    {"prompt":"Testing without explicit permission is:","options":["Legal if educational","Not allowed"],"answer":[1]},
+    {"prompt":"Responsible disclosure includes:","options":["Coordinated timelines","Public shaming"],"answer":[0]},
+    {"prompt":"Rules of Engagement should define:","options":["In/Out of scope","Favorite tools"],"answer":[0]}
+  ]
+}

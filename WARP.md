@@ -125,6 +125,7 @@ Notes
     ```
   - Quizzes (local grading)
     - Serve: `pipx run mkdocs serve`, then open a page under docs/quizzes/
+    - Score is stored locally in your browser (no server storage)
   - Build locally
     ```sh path=null start=null
     pipx run mkdocs build --strict

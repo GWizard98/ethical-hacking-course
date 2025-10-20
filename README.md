@@ -74,5 +74,5 @@ See `docs/outline.md` for a detailed outline.
 - Capstone exemplars: docs/capstone-exemplars/strong.md, docs/capstone-exemplars/average.md
 - ATT&CK Matrix: docs/frameworks/attack-matrix.md
 - Feedback: docs/feedback.md (open an Issue)
-- Quizzes: docs/quizzes/networking.md
+- Quizzes: docs/quizzes/networking.md (see Quizzes section in site nav for more)
 - Dev Container: .devcontainer/ (open in VS Code Dev Containers)
