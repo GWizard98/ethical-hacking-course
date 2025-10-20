@@ -1,0 +1,26 @@
+name: Content request
+description: Propose a new module/exercise or improvement
+labels: ["content"]
+body:
+  - type: input
+    id: module
+    attributes:
+      label: Module (e.g., 06 — Web Security Fundamentals)
+      placeholder: 06 — Web Security Fundamentals
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Describe the change and the concise learner tasks to add
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why this helps learners
+  - type: textarea
+    id: references
+    attributes:
+      label: References (optional)
+      description: Official docs or reputable resources only

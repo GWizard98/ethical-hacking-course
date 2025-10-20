@@ -87,3 +87,21 @@ Run (dev)
 Notes
 - <any language-specific caveats or paths>
 ```
+
+## Tooling and CI
+- GitHub Actions enforce Markdown linting and link checking on push/PR to `main`.
+- Optional local checks (no repo dependencies required):
+  - Markdown lint
+    ```sh path=null start=null
+    npx --yes markdownlint-cli2 "**/*.md" "!node_modules"
+    ```
+  - Link check
+    ```sh path=null start=null
+    docker run --rm -v "$PWD":/workdir ghcr.io/lycheeverse/lychee:latest --config .lychee.toml --no-progress "**/*.md"
+    ```
+
+- Module generator script
+  ```sh path=null start=null
+  chmod +x scripts/new-module.sh
+  scripts/new-module.sh "advanced-topic" "Advanced Topic"
+  ```

@@ -1,0 +1,23 @@
+name: Content bug report
+description: Report a typo, broken link, or incorrect instruction
+labels: ["bug"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File/section
+      placeholder: modules/02-networking/README.md
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Issue
+      description: What’s wrong? Include the exact text/link.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix (optional)
+      description: Propose corrected text or link if you can

@@ -33,6 +33,21 @@ By the end, you will be able to:
 
 See `docs/outline.md` for a detailed outline.
 
+## Modules
+- [00 — Introduction and Safety Foundations](modules/00-introduction/README.md)
+- [01 — Operating Systems and Linux Basics](modules/01-operating-systems/README.md)
+- [02 — Networking Essentials](modules/02-networking/README.md)
+- [03 — Legal, Ethics, and Responsible Disclosure](modules/03-legal-ethics/README.md)
+- [04 — Linux Tools and Workflow](modules/04-linux-tools/README.md)
+- [05 — Scripting for Security (Python/Bash)](modules/05-scripting-python/README.md)
+- [06 — Web Security Fundamentals](modules/06-web-security-fundamentals/README.md)
+- [07 — Network Security Fundamentals](modules/07-network-security-fundamentals/README.md)
+- [08 — Threat Modeling and Risk Basics](modules/08-threat-modeling-risk/README.md)
+- [09 — Vulnerability Assessment Basics](modules/09-vulnerability-assessment/README.md)
+- [10 — CTF-Style Labs and Practice](modules/10-ctf-and-labs/README.md)
+- [11 — Defensive Security Basics and Blue-Team View](modules/11-defensive-security-basics/README.md)
+- [12 — Career and Continued Learning](modules/12-career-continued-learning/README.md)
+
 ## Code of Conduct and Safety
 - Only test against systems you own or have explicit, written permission to test.
 - Follow all applicable laws; seek legal advice when unsure.
