@@ -1,0 +1,9 @@
+{
+  "id": "os-linux",
+  "title": "OS/Linux Basics Quiz",
+  "questions": [
+    {"prompt":"Which command changes file permissions?","options":["chown","chmod","mv","ps"],"answer":[1]},
+    {"prompt":"Select process listing tools.","options":["ps","top","df","grep"],"answer":[0,1],"multi":true},
+    {"prompt":"What does /etc/passwd store (conceptually)?","options":["User account info","Logs","Packages","Network routes"],"answer":[0]}
+  ]
+}

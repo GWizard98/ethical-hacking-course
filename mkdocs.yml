@@ -64,8 +64,14 @@ nav:
       - 22 — Free Practice: Network Ops: modules/22-free-practice-network/README.md
       - 23 — Free Practice: Blue-Team: modules/23-free-practice-blue-team/README.md
   - Lab VM: docs/lab-vm.md
+  - Lab OVA: docs/lab-ova.md
   - Assessments: docs/assessments/quiz-bank.md
   - Instructor: docs/instructor/keys.md
   - Feedback: docs/feedback.md
   - Quizzes:
+      - OS/Linux: docs/quizzes/os-linux.md
       - Networking: docs/quizzes/networking.md
+      - Web Fundamentals: docs/quizzes/web-fundamentals.md
+      - Scripting: docs/quizzes/scripting.md
+      - Threat Modeling: docs/quizzes/threat-modeling.md
+      - Vulnerability Assessment: docs/quizzes/vuln-assessment.md

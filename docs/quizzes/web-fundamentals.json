@@ -1,0 +1,9 @@
+{
+  "id": "web-fundamentals",
+  "title": "Web Fundamentals Quiz",
+  "questions": [
+    {"prompt":"HTTP is (stateless/stateful)?","options":["stateless","stateful"],"answer":[0]},
+    {"prompt":"Select session protections.","options":["HttpOnly","Secure","SameSite","Broadcast"],"answer":[0,1,2],"multi":true},
+    {"prompt":"High-level defense for XSS?","options":["Output encoding","Port blocking","DHCP"],"answer":[0]}
+  ]
+}

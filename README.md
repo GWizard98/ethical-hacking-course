@@ -68,6 +68,7 @@ See `docs/outline.md` for a detailed outline.
 - Guided Lab: docs/labs/juice-shop-walkthrough.md
 - SIEM Lab: docs/labs/siem.md
 - Lab VM (Vagrant): docs/lab-vm.md
+- Lab OVA (build/sign/release): docs/lab-ova.md
 - Assessments: docs/assessments/quiz-bank.md
 - Instructor keys: docs/instructor/keys.md
 - Capstone exemplars: docs/capstone-exemplars/strong.md, docs/capstone-exemplars/average.md

@@ -1,0 +1,9 @@
+{
+  "id": "threat-modeling",
+  "title": "Threat Modeling Quiz",
+  "questions": [
+    {"prompt":"STRIDE is used to classify:","options":["Assets","Threats","Logs"],"answer":[1]},
+    {"prompt":"Select risk components.","options":["Likelihood","Impact","Bandwidth"],"answer":[0,1],"multi":true},
+    {"prompt":"A DFD shows:","options":["Data flows","CPU usage","Disk space"],"answer":[0]}
+  ]
+}

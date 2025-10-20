@@ -138,6 +138,11 @@ Notes
   vagrant snapshot save clean
   vagrant destroy -f
   ```
+  - Build signed OVA locally
+    ```sh path=null start=null
+    chmod +x scripts/build-ova.sh
+    scripts/build-ova.sh
+    ```
 
 - Dev Container (VS Code)
   - Open this folder in a Dev Container to get mkdocs, markdownlint, alex, and Vale preinstalled.

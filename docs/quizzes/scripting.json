@@ -1,0 +1,9 @@
+{
+  "id": "scripting",
+  "title": "Scripting Basics Quiz",
+  "questions": [
+    {"prompt":"Which flag convention is common for CLI help?","options":["--help","--assist","--manual"],"answer":[0]},
+    {"prompt":"Select common text processing tools.","options":["awk","sed","cat","ssh"],"answer":[0,1,2],"multi":true},
+    {"prompt":"HTTP timeout handling should be (ignored/handled)?","options":["ignored","handled"],"answer":[1]}
+  ]
+}

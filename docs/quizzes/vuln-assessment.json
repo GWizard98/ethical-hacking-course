@@ -1,0 +1,9 @@
+{
+  "id": "vuln-assessment",
+  "title": "Vulnerability Assessment Quiz",
+  "questions": [
+    {"prompt":"CVE identifies:","options":["A weakness category","A specific vulnerability","A mitigation"],"answer":[1]},
+    {"prompt":"Select parts of a quality finding.","options":["Title","Steps to reproduce","Evidence","Random tips"],"answer":[0,1,2],"multi":true},
+    {"prompt":"Why triage?","options":["Prioritize remediation","Collect trophies"],"answer":[0]}
+  ]
+}
