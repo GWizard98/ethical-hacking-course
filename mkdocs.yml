@@ -9,6 +9,8 @@ theme:
 plugins:
   - search
 nav:
+  - Start here: docs/start-here.md
+  - Progress Tracker: docs/progress/progress-template.md
   - Home: README.md
   - Outline: docs/outline.md
   - Lab Setup: docs/lab-setup.md

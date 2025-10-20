@@ -1,0 +1,37 @@
+name: Accessibility (pa11y + Lighthouse)
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  a11y:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Build site
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+          mkdocs build --strict
+      - name: Serve site
+        run: |
+          npx --yes http-server ./site -p 8080 &
+          sleep 2
+      - name: pa11y-ci
+        run: |
+          npx --yes pa11y-ci --sitemap http://127.0.0.1:8080/sitemap.xml
+      - name: Lighthouse CI
+        uses: treosh/lighthouse-ci-action@v10
+        with:
+          urls: |
+            http://127.0.0.1:8080/
+            http://127.0.0.1:8080/docs/outline/
+            http://127.0.0.1:8080/modules/13-capstone/
+          runs: 1

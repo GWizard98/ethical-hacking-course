@@ -89,8 +89,8 @@ Notes
 ```
 
 ## Tooling and CI
-- GitHub Actions enforce Markdown linting and link checking on push/PR to `main`.
-- Optional local checks (no repo dependencies required):
+- GitHub Actions enforce Markdown linting, link checking, prose checks (alex + Vale), accessibility (pa11y + Lighthouse), docs build/deploy, and release drafting.
+- Optional local checks (no repo deps required):
   - Markdown lint
     ```sh path=null start=null
     npx --yes markdownlint-cli2 "**/*.md" "!node_modules"
@@ -98,6 +98,18 @@ Notes
   - Link check
     ```sh path=null start=null
     docker run --rm -v "$PWD":/workdir ghcr.io/lycheeverse/lychee:latest --config .lychee.toml --no-progress "**/*.md"
+    ```
+  - Prose (alex)
+    ```sh path=null start=null
+    npx --yes alex "**/*.md" --no-install
+    ```
+  - Prose (Vale)
+    ```sh path=null start=null
+    vale .
+    ```
+  - Pre-commit hooks (setup once)
+    ```sh path=null start=null
+    pipx run pre-commit install
     ```
 
 - Module generator script

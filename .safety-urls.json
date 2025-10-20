@@ -1,0 +1,5 @@
+{
+  "allow": [
+    "^https?:\\/\\/(localhost|127\\.0\\.0\\.1|overthewire\\.org|picoctf\\.org|github\\.com|owasp\\.org|mitre\\.org|cve\\.org|cwe\\.mitre\\.org|ssh\\.com|wireshark\\.org|docs\\.aws\\.amazon\\.com)(\/|$)"
+  ]
+}

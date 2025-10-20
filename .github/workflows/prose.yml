@@ -1,0 +1,25 @@
+name: Prose Lint (alex + Vale)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  prose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: alex
+        run: |
+          npx --yes alex "**/*.md" --no-install || true
+      - name: Install Vale
+        run: |
+          curl -fsSL https://github.com/errata-ai/vale/releases/latest/download/vale_Linux_64-bit.tar.gz -o vale.tgz
+          tar -xzf vale.tgz
+          sudo mv vale /usr/local/bin/vale
+      - name: Vale
+        run: |
+          vale --version
+          vale .
