@@ -13,5 +13,20 @@ Exercises
 Deliverables
 - Short notes with daily terminal drills
 
+Checklist
+- [ ] File/perm tasks completed
+- [ ] Process listing and safe stop performed
+- [ ] One alias added and documented
+
+Quiz (3)
+1) What does `chmod 644` mean?
+2) Difference between a process and a thread?
+3) Where is PATH configured?
+
+Rubric
+- Emerging: runs commands without notes
+- Proficient: notes with commands and outcomes
+- Strong: adds pitfalls and troubleshooting tips
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

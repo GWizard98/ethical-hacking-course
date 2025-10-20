@@ -12,5 +12,20 @@ Exercises
 Deliverables
 - Draft rules-of-engagement document for a hypothetical client lab
 
+Checklist
+- [ ] Scope and out-of-scope defined
+- [ ] Disclosure template drafted
+- [ ] Contacts/timelines listed
+
+Quiz (3)
+1) Why is scope critical?
+2) What is coordinated disclosure?
+3) Give one unethical behavior to avoid.
+
+Rubric
+- Emerging: vague scope
+- Proficient: clear scope + timelines
+- Strong: includes escalation paths and record-keeping
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

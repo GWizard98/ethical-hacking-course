@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - One small script that processes local files or HTTP responses from approved targets
 
+Checklist
+- [ ] Script accepts flags
+- [ ] Helpful --help text present
+- [ ] README snippet showing usage
+
+Quiz (3)
+1) What is idempotence and why useful?
+2) Difference between stderr and stdout?
+3) How to handle HTTP timeouts safely?
+
+Rubric
+- Emerging: works on one machine only
+- Proficient: clear usage and error handling
+- Strong: input validation and logs
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

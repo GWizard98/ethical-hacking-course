@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - Notes and takeaways from OverTheWire/picoCTF-style exercises
 
+Checklist
+- [ ] Completed Bandit 0–5
+- [ ] One picoCTF solved
+- [ ] Reflections documented
+
+Quiz (3)
+1) Why time-boxing?
+2) What is a write-up and why valuable?
+3) One lesson learned this week?
+
+Rubric
+- Emerging: flags only
+- Proficient: steps + lessons
+- Strong: generalizes patterns and anti-patterns
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

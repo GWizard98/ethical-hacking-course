@@ -1,0 +1,29 @@
+site_name: Ethical Hacking Learners Course
+site_url: https://gwizard98.github.io/ethical-hacking-course/
+repo_url: https://github.com/GWizard98/ethical-hacking-course
+repo_name: ethical-hacking-course
+docs_dir: .
+use_directory_urls: true
+theme:
+  name: material
+plugins:
+  - search
+nav:
+  - Home: README.md
+  - Outline: docs/outline.md
+  - Lab Setup: docs/lab-setup.md
+  - NICE Mapping: docs/frameworks/nice-mapping.md
+  - Modules:
+      - 00 — Introduction: modules/00-introduction/README.md
+      - 01 — Operating Systems: modules/01-operating-systems/README.md
+      - 02 — Networking Essentials: modules/02-networking/README.md
+      - 03 — Legal & Ethics: modules/03-legal-ethics/README.md
+      - 04 — Linux Tools: modules/04-linux-tools/README.md
+      - 05 — Scripting: modules/05-scripting-python/README.md
+      - 06 — Web Security: modules/06-web-security-fundamentals/README.md
+      - 07 — Network Security: modules/07-network-security-fundamentals/README.md
+      - 08 — Threat Modeling: modules/08-threat-modeling-risk/README.md
+      - 09 — Vulnerability Assessment: modules/09-vulnerability-assessment/README.md
+      - 10 — CTF & Labs: modules/10-ctf-and-labs/README.md
+      - 11 — Defensive Basics: modules/11-defensive-security-basics/README.md
+      - 12 — Career & Learning: modules/12-career-continued-learning/README.md

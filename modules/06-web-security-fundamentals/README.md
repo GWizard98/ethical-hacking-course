@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - OWASP Top 10 notes and reflections
 
+Checklist
+- [ ] HTTP flow diagram created
+- [ ] One weakness identified conceptually
+- [ ] Defense proposed
+
+Quiz (3)
+1) What is CSRF at a high level?
+2) Why validate inputs server-side?
+3) What is session fixation?
+
+Rubric
+- Emerging: lists vulns only
+- Proficient: explains flow + defense
+- Strong: ties to threat model and logs
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

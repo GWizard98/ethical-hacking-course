@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - Draft portfolio plan and next-steps roadmap
 
+Checklist
+- [ ] 3–6 month plan drafted
+- [ ] Two artifacts added to portfolio
+- [ ] Resume bullets drafted
+
+Quiz (3)
+1) What role do you target first?
+2) Which KSAs are you strongest/weakest in?
+3) One community you’ll participate in?
+
+Rubric
+- Emerging: vague plan
+- Proficient: concrete milestones
+- Strong: measurable outcomes and alignment to roles
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

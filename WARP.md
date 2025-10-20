@@ -105,3 +105,14 @@ Notes
   chmod +x scripts/new-module.sh
   scripts/new-module.sh "advanced-topic" "Advanced Topic"
   ```
+
+- Docs site (MkDocs)
+  - Preview locally
+    ```sh path=null start=null
+    pipx run mkdocs serve
+    ```
+  - Build locally
+    ```sh path=null start=null
+    pipx run mkdocs build --strict
+    ```
+  - CI deploys to GitHub Pages on push to main.

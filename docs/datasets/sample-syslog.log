@@ -1,0 +1,5 @@
+# Sample syslog-like entries
+Jan  1 10:00:01 host1 sshd[123]: Failed password for invalid user admin from 192.0.2.10 port 54321 ssh2
+Jan  1 10:00:05 host1 sshd[124]: Accepted password for user alice from 192.0.2.20 port 54322 ssh2
+Jan  1 10:01:10 host1 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; COMMAND=/usr/bin/apt update
+Jan  1 10:02:42 host1 kernel: eth0: Link is Up - 1000Mbps/Full - flow control rx/tx

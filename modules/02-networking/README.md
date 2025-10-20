@@ -12,5 +12,20 @@ Exercises
 Deliverables
 - Notes showing use of ping, traceroute, dig/nslookup, curl in a lab network
 
+Checklist
+- [ ] IP/gateway/ports identified
+- [ ] DNS queries recorded
+- [ ] HTTP request/response captured
+
+Quiz (3)
+1) TCP vs UDP key difference?
+2) What does an NXDOMAIN mean?
+3) Which port is HTTPS by default?
+
+Rubric
+- Emerging: tools used without context
+- Proficient: commands + interpretations
+- Strong: diagrams flows and anomalies
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

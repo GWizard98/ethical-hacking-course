@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - Baseline hardening checklist for a lab VM
 
+Checklist
+- [ ] Firewall rules defined
+- [ ] Updates applied
+- [ ] Unused services disabled
+
+Quiz (3)
+1) Principle of least privilege?
+2) Why log baselining?
+3) One host hardening control?
+
+Rubric
+- Emerging: unverified steps
+- Proficient: validated changes + notes
+- Strong: rollback plan and metrics
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

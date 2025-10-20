@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - Incident notes template and a mock triage write-up
 
+Checklist
+- [ ] Logs collected for one scenario
+- [ ] Triage checklist drafted
+- [ ] Notes template created
+
+Quiz (3)
+1) What is an indicator of compromise?
+2) First step in incident response?
+3) Why timestamps/timezones matter?
+
+Rubric
+- Emerging: unstructured notes
+- Proficient: actionable triage flow
+- Strong: clear evidence handling and timelines
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

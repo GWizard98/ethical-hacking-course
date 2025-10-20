@@ -11,5 +11,20 @@ Exercises
 Deliverables
 - A simple threat model diagram and notes
 
+Checklist
+- [ ] DFD drafted
+- [ ] STRIDE applied to 2 components
+- [ ] 2 risks rated with rationale
+
+Quiz (3)
+1) What is attack surface?
+2) Difference between likelihood and impact?
+3) Example of mitigation vs acceptance?
+
+Rubric
+- Emerging: incomplete diagram
+- Proficient: clear threats and mitigations
+- Strong: prioritization justified
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

@@ -13,5 +13,20 @@ Deliverables
 - Personal learning journal created
 - Signed personal code of conduct committed to notes (do not share sensitive info)
 
+Checklist
+- [ ] Journal created and private
+- [ ] Code of conduct drafted and signed
+- [ ] Lab scope documented
+
+Quiz (3)
+1) What is authorization and why is it required?
+2) Name two safe practice environments.
+3) What is responsible disclosure?
+
+Rubric (concise)
+- Emerging: partial journal; unclear scope
+- Proficient: clear journal + scope; safety-first language
+- Strong: adds structured note template and improvement plan
+
 ---
 Navigation: [Course README](../../README.md) • [Outline](../../docs/outline.md)

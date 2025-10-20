@@ -57,4 +57,8 @@ See `docs/outline.md` for a detailed outline.
 ## Getting Started
 - Read `docs/outline.md`
 - Prepare a learning lab using only authorized targets (local VMs/containers, CTF platforms)
+- See `docs/lab-setup.md` for a quick Docker-based local lab
 - Track your progress by taking notes in each module directory under `modules/`
+
+## Documentation site
+- Built from this repo via MkDocs. View: https://gwizard98.github.io/ethical-hacking-course/
