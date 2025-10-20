@@ -12,6 +12,7 @@ nav:
   - Home: README.md
   - Outline: docs/outline.md
   - Lab Setup: docs/lab-setup.md
+  - Guided Lab: docs/labs/juice-shop-walkthrough.md
   - NICE Mapping: docs/frameworks/nice-mapping.md
   - Modules:
       - 00 — Introduction: modules/00-introduction/README.md

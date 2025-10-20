@@ -3,6 +3,8 @@
 Objectives
 - Map roles, certifications, and a learning plan
 
+Timebox: 45–90 min
+
 Exercises
 - Draft a 3–6 month learning plan with weekly milestones.
 - Create a portfolio structure and add two artifacts (notes, scripts, write-ups).

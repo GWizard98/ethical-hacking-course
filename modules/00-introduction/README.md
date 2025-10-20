@@ -4,6 +4,8 @@ Objectives
 - Understand course structure and expectations
 - Adopt a safety-first, legal mindset
 
+Timebox: 30–60 min
+
 Exercises
 - Set up a private learning journal (repo or notebook) and add a daily notes template.
 - Draft and sign a personal code of conduct; state your authorized lab scope.

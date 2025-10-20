@@ -3,6 +3,8 @@
 Objectives
 - Explain common web weaknesses conceptually and related defenses
 
+Timebox: 60–120 min
+
 Exercises
 - Diagram an HTTP request/response flow with cookies and session handling.
 - Using a safe local demo app (if available), identify a simple input validation issue and propose a defense.
@@ -10,6 +12,9 @@ Exercises
 
 Deliverables
 - OWASP Top 10 notes and reflections
+
+Resources
+- OWASP Top 10: https://owasp.org/www-project-top-ten/
 
 Checklist
 - [ ] HTTP flow diagram created

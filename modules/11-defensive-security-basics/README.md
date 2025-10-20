@@ -3,6 +3,8 @@
 Objectives
 - Understand detection and response at a high level
 
+Timebox: 60–90 min
+
 Exercises
 - Collect logs for a simple event (e.g., failed login) and summarize the signals.
 - Create an incident notes template; rehearse a short tabletop scenario.

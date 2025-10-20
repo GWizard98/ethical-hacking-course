@@ -4,6 +4,8 @@ Objectives
 - Distinguish authorized from unauthorized testing
 - Outline responsible disclosure steps
 
+Timebox: 45–60 min
+
 Exercises
 - Draft a 1-page Rules of Engagement for a hypothetical lab; define in/out of scope.
 - Write a responsible disclosure email template with timelines and contacts.
@@ -11,6 +13,9 @@ Exercises
 
 Deliverables
 - Draft rules-of-engagement document for a hypothetical client lab
+
+Resources
+- disclose.io (safe harbor): https://disclose.io/policy-templates/
 
 Checklist
 - [ ] Scope and out-of-scope defined

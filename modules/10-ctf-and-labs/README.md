@@ -3,6 +3,8 @@
 Objectives
 - Practice skills safely using reputable platforms
 
+Timebox: 90–180 min
+
 Exercises
 - Complete OverTheWire Bandit levels 0–5; record commands and lessons learned.
 - Solve one picoCTF beginner challenge; document approach and flags redacted.
@@ -10,6 +12,10 @@ Exercises
 
 Deliverables
 - Notes and takeaways from OverTheWire/picoCTF-style exercises
+
+Resources
+- OverTheWire (Bandit): https://overthewire.org/wargames/bandit/
+- picoCTF: https://picoctf.org/
 
 Checklist
 - [ ] Completed Bandit 0–5

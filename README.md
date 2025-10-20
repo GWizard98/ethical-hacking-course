@@ -53,6 +53,7 @@ See `docs/outline.md` for a detailed outline.
 - Follow all applicable laws; seek legal advice when unsure.
 - Prefer sandboxes and reputable CTF platforms for hands-on practice.
 - Practice responsible disclosure for any real-world findings.
+- See CODE_OF_CONDUCT.md for community behavior standards.
 
 ## Getting Started
 - Read `docs/outline.md`
@@ -62,3 +63,4 @@ See `docs/outline.md` for a detailed outline.
 
 ## Documentation site
 - Built from this repo via MkDocs. View: https://gwizard98.github.io/ethical-hacking-course/
+- Guided Lab: docs/labs/juice-shop-walkthrough.md

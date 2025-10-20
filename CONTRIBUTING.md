@@ -31,9 +31,14 @@ npx --yes markdownlint-cli2 "**/*.md" "!node_modules"
 docker run --rm -v "$PWD":/workdir ghcr.io/lycheeverse/lychee:latest --config .lychee.toml --no-progress "**/*.md"
 ```
 
+## Accessibility
+- Use descriptive headings (one H1 per page), ordered lists, and meaningful link text.
+- Provide alt text for images and avoid images of text.
+
 ## PR checklist
 - [ ] Adds/updates Exercises with clear steps
 - [ ] Uses safety-first language; no unauthorized targets
 - [ ] Navigation links present in module(s)
+- [ ] Timebox and rubric present (or intentionally omitted with reason)
 - [ ] Links work; CI green
 - [ ] WARP.md updated if tooling or commands changed

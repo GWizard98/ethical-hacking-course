@@ -3,6 +3,8 @@
 Objectives
 - Establish a repeatable workflow for notes and evidence
 
+Timebox: 60–90 min
+
 Exercises
 - Configure your editor (vim/nano/VS Code) for Markdown; set a monospace font.
 - Create an SSH key pair; connect to a local lab VM via SSH.
@@ -11,6 +13,9 @@ Exercises
 
 Deliverables
 - Terminal/editor configuration and note-taking template
+
+Resources
+- OpenSSH keys: https://www.ssh.com/academy/ssh/keys
 
 Checklist
 - [ ] Editor configured for Markdown

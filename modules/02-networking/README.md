@@ -3,6 +3,8 @@
 Objectives
 - Explain IP, ports, and DNS at a practical level
 
+Timebox: 60–90 min
+
 Exercises
 - Identify your lab VM’s IP, default gateway, and open ports safely.
 - Use `ping`/`traceroute` to a safe domain; record observations.
@@ -11,6 +13,9 @@ Exercises
 
 Deliverables
 - Notes showing use of ping, traceroute, dig/nslookup, curl in a lab network
+
+Resources
+- Wireshark docs (intro): https://www.wireshark.org/docs/wsug_html_chunked/
 
 Checklist
 - [ ] IP/gateway/ports identified

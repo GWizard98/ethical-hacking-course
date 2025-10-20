@@ -4,6 +4,8 @@ Objectives
 - Navigate the filesystem and permissions
 - Use the shell effectively for daily tasks
 
+Timebox: 60–90 min
+
 Exercises
 - Files/permissions: create/move/delete files and dirs; practice `chmod`/`chown`.
 - Processes: list with `ps`/`top`, find a process, and safely stop it.

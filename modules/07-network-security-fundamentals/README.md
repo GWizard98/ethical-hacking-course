@@ -3,6 +3,8 @@
 Objectives
 - Understand visibility and hardening basics
 
+Timebox: 60–90 min
+
 Exercises
 - Enable a host firewall on a lab VM; list and justify your rules.
 - Apply baseline hardening (updates, disable unused services); document steps.

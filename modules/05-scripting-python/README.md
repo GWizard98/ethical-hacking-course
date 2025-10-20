@@ -3,6 +3,8 @@
 Objectives
 - Automate small, safe tasks related to analysis and reporting
 
+Timebox: 60–120 min
+
 Exercises
 - Bash: parse a sample log file to count unique IPs and top 5 entries.
 - Python: request a safe HTTP endpoint; save status code and headers to a file.

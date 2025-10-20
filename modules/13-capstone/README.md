@@ -3,6 +3,8 @@
 Objectives
 - Integrate skills: plan, assess an authorized local target, and report.
 
+Timebox: 3–6 hours (can be split across days)
+
 Exercises
 - Planning: define scope, assumptions, and safety. Pick one local lab target (e.g., Juice Shop on localhost).
 - Discovery: enumerate services/features safely; note findings.

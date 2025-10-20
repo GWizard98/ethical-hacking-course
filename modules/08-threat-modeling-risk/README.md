@@ -3,6 +3,8 @@
 Objectives
 - Identify assets and attack surfaces; reason about likelihood/impact
 
+Timebox: 60–90 min
+
 Exercises
 - Draw a simple data-flow diagram (DFD) for a small web app.
 - Apply STRIDE to two components; list threats and mitigations.
